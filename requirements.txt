@@ -1,8 +1,5 @@
 Babel==1.3
-Jinja2==2.7.3
-Markdown==2.6.2
 MarkupSafe==0.23
-PyYAML==3.11
 Pygments==2.0.2
 Sphinx==1.3.1
 alabaster==0.7.4
@@ -10,9 +7,6 @@ argh==0.26.1
 backports.ssl-match-hostname==3.4.0.2
 certifi==2015.04.28
 docutils==0.12
-ghp-import==0.4.1
-livereload==2.3.2
-mkdocs==0.12.2
 pathtools==0.1.2
 pytz==2015.4
 six==1.9.0
